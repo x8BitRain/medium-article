@@ -32,7 +32,7 @@ a {
 .banner {
   background-image:
   linear-gradient(135deg, rgba(0,0,0,0.8) -20%, rgba(0,0,0,0.2) 71%),
-  url("/img/head.jpg");
+  url("https://raw.githubusercontent.com/x8BitRain/medium-article-copy/master/img/head.jpg");
   background-size: cover;
   color: white;
   padding: 70px 0;
